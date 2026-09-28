@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+Validaciones_Web_API_CSharp_Programacion_II.docx
